@@ -3,7 +3,7 @@ loaderVersion = "[36,)"
 
 license = "All rights reserved"
 [[mods]]
-modId = "iron-stars"
+modId = "iron_stars"
 version = "${file.jarVersion}"
 displayName = "Iron Stars"
 #updateJSONURL="http://myurl.me/"
