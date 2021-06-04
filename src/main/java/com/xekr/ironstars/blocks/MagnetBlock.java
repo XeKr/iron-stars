@@ -10,7 +10,8 @@ public class MagnetBlock extends RotatedPillarBlock {
         super(Block.Properties
                 .create(Material.IRON)
                 .hardnessAndResistance(0.5F)
-                .sound(SoundType.METAL));
+                .sound(SoundType.METAL)
+                .notSolid());
         this.setRegistryName("magnet_block");
     }
 }

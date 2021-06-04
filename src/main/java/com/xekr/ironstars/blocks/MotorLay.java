@@ -8,7 +8,8 @@ public class MotorLay extends FurnaceBlock {
         super(Block.Properties
                 .create(Material.IRON)
                 .hardnessAndResistance(0.5F)
-                .sound(SoundType.METAL));
+                .sound(SoundType.METAL)
+                .notSolid());
         this.setRegistryName("motor_lay");
     }
 }

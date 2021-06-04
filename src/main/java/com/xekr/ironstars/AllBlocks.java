@@ -3,21 +3,21 @@ package com.xekr.ironstars;
 import com.xekr.ironstars.blocks.*;
 
 public class AllBlocks {
-    public static Coil coil = new Coil();
-    public static ElectricWire electricWire = new ElectricWire();
-    public static MagnetBlock magnetBlock = new MagnetBlock();
-    public static MoonDust moonDust = new MoonDust();
-    public static MoonRock moonRock = new MoonRock();
-    public static MoonSoil moonSoil = new MoonSoil();
-    public static Motor motor = new Motor();
-    public static MotorLay motorLay = new MotorLay();
-    public static SiliconBlock siliconBlock = new SiliconBlock();
-    public static SteelBlock steelBlock = new SteelBlock();
-    public static SteelTiles steelTiles = new SteelTiles();
-    public static TitaniumAlloyBlock titaniumAlloyBlock = new TitaniumAlloyBlock();
-    public static TitaniumBlock titaniumBlock = new TitaniumBlock();
-    public static TitaniumOre titaniumOre = new TitaniumOre();
-    public static Turbine turbine = new Turbine();
-    public static Windmill windmill = new Windmill();
+    public static final Coil coil = new Coil();
+    public static final ElectricWire electricWire = new ElectricWire();
+    public static final MagnetBlock magnetBlock = new MagnetBlock();
+    public static final MoonDust moonDust = new MoonDust();
+    public static final MoonRock moonRock = new MoonRock();
+    public static final MoonSoil moonSoil = new MoonSoil();
+    public static final Motor motor = new Motor();
+    public static final MotorLay motorLay = new MotorLay();
+    public static final SiliconBlock siliconBlock = new SiliconBlock();
+    public static final SteelBlock steelBlock = new SteelBlock();
+    public static final SteelTiles steelTiles = new SteelTiles();
+    public static final TitaniumAlloyBlock titaniumAlloyBlock = new TitaniumAlloyBlock();
+    public static final TitaniumBlock titaniumBlock = new TitaniumBlock();
+    public static final TitaniumOre titaniumOre = new TitaniumOre();
+    public static final Turbine turbine = new Turbine();
+    public static final Windmill windmill = new Windmill();
 
 }

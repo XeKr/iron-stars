@@ -4,7 +4,7 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 
 public class CreateTab extends ItemGroup {
-    public static ItemGroup ITON_STAR = new CreateTab();
+    public static final ItemGroup ITON_STAR = new CreateTab();
     public CreateTab() {
         super(IronStars.ID);
     }
